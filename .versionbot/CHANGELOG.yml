@@ -1,4 +1,31 @@
 - commits:
+    - subject: >-
+        plugins: change restart policy to on-failure to avoid unnecessary
+        restarts
+      hash: 9ff73255e035467dc3b8015ca37ffba86295dd9b
+      body: ''
+      footer:
+        Connects-to: '#303'
+        connects-to: '#303'
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Tomás Migone <tomas@balena.io>
+        signed-off-by: Tomás Migone <tomas@balena.io>
+      author: Tomás Migone
+      nested: []
+    - subject: Minor documentation tweaks
+      hash: 6b338e0acb4b8dbd6881171323246137b2f05f8a
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: AlexProgrammerDE <40795980+AlexProgrammerDE@users.noreply.github.com>
+        signed-off-by: AlexProgrammerDE <40795980+AlexProgrammerDE@users.noreply.github.com>
+      author: AlexProgrammerDE
+      nested: []
+  version: 3.1.3
+  date: 2020-09-23T14:41:28.070Z
+- commits:
     - subject: 'dac: add Hifiberry DAC2 HD'
       hash: c2f2b7aa3347fe20ae571de6eafc016786c48d6f
       body: ''
